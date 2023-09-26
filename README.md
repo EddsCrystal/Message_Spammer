@@ -1,6 +1,6 @@
 # Disclaimer
 
-The Message Bot Spammer (hereafter referred to as "the Bot") is a research tool intended exclusively for legitimate research and academic purposes. The author of the Bot explicitly denounces any use of this tool for activities that contravene ethical standards, legal regulations, or contribute to online harassment or harm to individuals or organizations.
+The Message Bot Spammer (hereafter referred to as "Msg_Spammer") is a research tool intended exclusively for legitimate research and academic purposes. The author of the Bot explicitly denounces any use of this tool for activities that contravene ethical standards, legal regulations, or contribute to online harassment or harm to individuals or organizations.
 
 **1. Author's Responsibility:**
 The author of the Bot does not endorse or support any misuse, spamming, harassment, or unethical behavior associated with its usage. It is imperative for users to recognize that the Bot must be used responsibly, ethically, and in strict compliance with all relevant laws, ethical guidelines, and research ethics protocols, particularly in cases involving online harassment.
